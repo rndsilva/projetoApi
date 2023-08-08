@@ -1,0 +1,8 @@
+{
+  "name": "ProjetoLinux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rndsilva/curso_udemy_api_linux.git",
+  "author": "rndsilva <rafaelnunesatrix@gmail.com>",
+  "license": "MIT"
+}
